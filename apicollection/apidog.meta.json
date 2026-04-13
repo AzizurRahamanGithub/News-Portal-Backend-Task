@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "name": "apicollection",
+  "description": "",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git",
+    "apidog.private.*",
+    ".apidog"
+  ]
+}
